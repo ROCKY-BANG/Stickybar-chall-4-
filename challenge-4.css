@@ -43,7 +43,7 @@ a:hover{
 
 /*Styling bot*/
 #boticon{
-    background-image: url("/boticonbg.png");
+    background-image: url("boticonbg.png");
     background-size: 100px;
     width: 100px;
     height: 100px;
